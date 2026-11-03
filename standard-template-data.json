@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-03T07:46:53.584305672Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-03T08:08:43.228920966Z",
     "templateType": "trip_a",
     "propertyId": "74f914fd-e072-4dfb-ae0f-d5fd5a753456",
     "homepageId": "01a19fee-532f-73c7-8a0b-782b9164e22c"
@@ -2048,7 +2048,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": "Stays with sea views in all rooms have crispy duvets and cute props.\nThere is also a panoramic sea view and sunshine every morning."
+                "description": "Stays with forest views in all rooms have crispy duvets and cute props.\nThere is also a panoramic sea view and sunshine every morning."
               },
               "essence": {
                 "title": "",
